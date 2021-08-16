@@ -104,7 +104,7 @@ md"""
 
 # ╔═╡ 847d0fc2-041d-11eb-2864-79066e223b45
 md"""
-👉 Convert `x` to an integer using the `Integer` function. What value does it have? What values do `I` and `R` have?
+👉 What values do `I` and `R` have?
 """
 
 # ╔═╡ f2792ff5-b0b6-4fcd-94aa-0b6ef048f6ab
